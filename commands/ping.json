@@ -1,0 +1,4 @@
+{
+    "name": "ping",
+    "description": "Retrieves the Bot latency"
+}
